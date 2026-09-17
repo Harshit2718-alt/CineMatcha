@@ -228,3 +228,7 @@ By using **TF-IDF** and **Cosine Similarity**, the system converts movie
 descriptions into machine-readable features and recommends movies based
 on their similarity.
 
+Code:
+<img width="356" height="795" alt="image" src="https://github.com/user-attachments/assets/aa706c65-5036-4508-9e11-69593f7a56b3" />
+<img width="641" height="537" alt="image" src="https://github.com/user-attachments/assets/9627de78-3cd0-4681-80cf-479ba05e46a3" />
+
