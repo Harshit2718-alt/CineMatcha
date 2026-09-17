@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# 🎬 CineMatcha
 
 This is a simple **AI/ML-based Movie Recommendation System** built using
 Python.\
