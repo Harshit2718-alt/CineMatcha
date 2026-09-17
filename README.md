@@ -231,7 +231,10 @@ on their similarity.
 Code:
 <br>
 <br>
-<img width="356" height="795" alt="image" src="https://github.com/user-attachments/assets/aa706c65-5036-4508-9e11-69593f7a56b3" />
+<img width="506" height="902" alt="image" src="https://github.com/user-attachments/assets/a71c4244-4a97-4656-b284-4238258bc582" />
+<br>
+<br>
+<img width="411" height="905" alt="image" src="https://github.com/user-attachments/assets/734d06c7-af9e-4872-b99c-9d623df782d3" />
 <br>
 <br>
 <img width="641" height="537" alt="image" src="https://github.com/user-attachments/assets/9627de78-3cd0-4681-80cf-479ba05e46a3" />
